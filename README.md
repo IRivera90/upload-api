@@ -20,7 +20,7 @@ AWS_SECRET_ACCESS_KEY=
 BUCKET=
 ```
 Upload to S3
-
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-creating-buckets
 
 s3Upload.js
 
